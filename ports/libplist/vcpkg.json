@@ -1,6 +1,6 @@
 {
   "name": "libplist",
-  "version-date": "2023-06-15",
+  "version-date": "2024-05-13",
   "port-version": 1,
   "description": "A library to handle Apple Property List format in binary or XML",
   "homepage": "https://libimobiledevice.org/",
